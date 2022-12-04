@@ -1,0 +1,15 @@
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\bin\Debug\net6.0\CSharp.exe
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\bin\Debug\net6.0\CSharp.deps.json
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\bin\Debug\net6.0\CSharp.dll
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\bin\Debug\net6.0\CSharp.pdb
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.dll
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.pdb
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+E:\Source Code\GIT\Yogesh\Playground\CSharp\CSharp\CSharp\obj\Debug\net6.0\ref\CSharp.dll
