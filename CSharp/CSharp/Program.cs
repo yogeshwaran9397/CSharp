@@ -1,9 +1,13 @@
-﻿using CSharp;
+﻿using CSharp.DelegateAndEvents;
 
-Example_Event();
 
-ExampleDelegates();
+if (true)
+{
+    Example_Event();
+    ExampleDelegates();
+}
 
+#region Delegates and Events 
 static void Example_Event()
 {
     //Event Example
@@ -27,3 +31,5 @@ static void ExampleDelegates()
     //Delegate Example 
     DelegateExample objDel = new DelegateExample();
 }
+
+#endregion
