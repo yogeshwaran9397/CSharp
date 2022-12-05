@@ -1,35 +1,35 @@
 ﻿using CSharp.DelegateAndEvents;
-
+using CSharp.Topics;
+using System.Text;
 
 if (true)
 {
-    Example_Event();
-    ExampleDelegates();
+    #region Generics 
+
+    Generics<string> objGenericsString = new Generics<string>("Yogesh");
+    objGenericsString.GetType();
+
+    Generics<int> objGenericsInt = new Generics<int>(1);
+    objGenericsInt.GetType();
+
+    #endregion
 }
 
-#region Delegates and Events 
-static void Example_Event()
+
+if (false)
 {
-    //Event Example
-    EventPublisher objEvent = new EventPublisher();
-
-    //Default Event - without data (Empty Args)
-    EventSubClass1 subscriber1 = new EventSubClass1();
-    objEvent.EventSample += subscriber1.SubClassMethod1;
-
-    //Event with data 
-    CustomEventClass subscriber2 = new CustomEventClass();
-    objEvent.CustomEventSample += subscriber2.CustomMethod1;
-
-    //Publisher call 
-    EventSubscriberData ObjSubscriberData = new EventSubscriberData("Yogesh");
-    objEvent.PublisherMethod(ObjSubscriberData);
+    #region StringBuilder  
+    ExampleStringBuilderClass.ExampleStringBuilder();
+    #endregion
 }
 
-static void ExampleDelegates()
+if (false)
 {
-    //Delegate Example 
-    DelegateExample objDel = new DelegateExample();
+    #region Event Delegates Example
+
+    EventDelegateHelper.Example_Event();
+    EventDelegateHelper.ExampleDelegates();
+
+    #endregion
 }
 
-#endregion
