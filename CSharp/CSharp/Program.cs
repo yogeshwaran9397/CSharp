@@ -1,15 +1,20 @@
 ﻿using CSharp.DelegateAndEvents;
 using CSharp.Topics;
-using System.Text;
+using System;
+
 
 if (true)
+{
+    Reverse objRev = new Reverse();
+    objRev.ReverseValue();
+}
+
+if (false)
 {
     #region Timer 
 
     TimerExample objtimer = new TimerExample();
-
     Thread.Sleep(10000);
-
     #endregion
 }
 
